@@ -28,7 +28,7 @@ The aim is to understand which factors contribute most to snowfall and predict a
   'mser', 'msr', 'mcc', 'ptype', 'sp', 'tcsw', 'tcslw', 'deg0l'
 ]
 ```
-🧠 Models Used
+## 🧠 Models Used
 🔹 Linear Regression
 
 🔹 Logistic Regression
@@ -39,17 +39,17 @@ The aim is to understand which factors contribute most to snowfall and predict a
 
 🔹 Gradient Boosting Regressor
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Python
 
 📦 Libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`, `statsmodels`
 
-📊 Feature Selection
+## 📊 Feature Selection
 ✅ Correlation Heatmap: Visualized with `seaborn.heatmap` to identify multicollinearity
 
 ✅ VIF Analysis: Features with high VIF scores were removed to prevent overfitting and redundancy
 
-📈 Evaluation Metrics
+## 📈 Evaluation Metrics
 🔹 R² Score
 
 🔹 Mean Absolute Error (MAE)
